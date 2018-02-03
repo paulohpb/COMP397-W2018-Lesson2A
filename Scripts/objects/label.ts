@@ -1,5 +1,5 @@
 module objects {
-    class Label extends createjs.Text {
+    export class Label extends createjs.Text {
         // Instants Variables 
 
         private _isCentered: boolean;
